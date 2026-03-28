@@ -1,0 +1,11 @@
+{
+  "name": "Harusi Smart",
+  "short_name": "Harusi",
+  "description": "Mobile-first PWA for Tanzanian wedding planning",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "icons": []
+}

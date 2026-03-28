@@ -1,0 +1,25 @@
+{
+  "common": {
+    "appName": "Harusi Smart",
+    "loading": "Loading...",
+    "error": "Error",
+    "logout": "Logout"
+  },
+  "navigation": {
+    "home": "Home",
+    "vendors": "Vendors",
+    "dashboard": "Dashboard",
+    "planner": "Planner",
+    "chat": "Chat",
+    "favorites": "Favorites",
+    "budget": "Budget",
+    "guests": "Guests",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password"
+  }
+}

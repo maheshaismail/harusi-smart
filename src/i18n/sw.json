@@ -1,0 +1,25 @@
+{
+  "common": {
+    "appName": "Harusi Smart",
+    "loading": "Inapakia...",
+    "error": "Kosa",
+    "logout": "Toka"
+  },
+  "navigation": {
+    "home": "Nyumbani",
+    "vendors": "Wauzaji",
+    "dashboard": "Dashibodi",
+    "planner": "Mpangaji",
+    "chat": "Mazungumzo",
+    "favorites": "Inayopendelea",
+    "budget": "Bajeti",
+    "guests": "Wageni",
+    "settings": "Mipangilio"
+  },
+  "auth": {
+    "login": "Ingia",
+    "register": "Jisajili",
+    "email": "Barua Pepe",
+    "password": "Neno Siri"
+  }
+}
